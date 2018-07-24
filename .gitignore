@@ -1,0 +1,13 @@
+# Mac OS misc
+.DS_Store
+
+# Dump files
+*.dump
+
+# Log files
+logs/
+*.log
+shared/
+
+# Docker
+**/.env
